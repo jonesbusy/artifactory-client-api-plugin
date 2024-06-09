@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin provides the <a href="https://github.com/jfrog/artifactory-client-java">Artifactory Client</a> (v${revision}) for other plugins.
+</div>
