@@ -41,6 +41,7 @@
     <hpi.bundledArtifacts>artifactory-java-client-api,artifactory-java-client-httpClient,artifactory-java-client-services,file-specs-java</hpi.bundledArtifacts>
     <hpi.strictBundledArtifacts>true</hpi.strictBundledArtifacts>
     <ban-commons-lang-2.skip>false</ban-commons-lang-2.skip>
+    <banObsoleteDependencyOverrides.skip>false</banObsoleteDependencyOverrides.skip>
   </properties>
 
   <dependencyManagement>
